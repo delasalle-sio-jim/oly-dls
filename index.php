@@ -2,6 +2,7 @@
 include("include/_inc_parametres.php");
 include("include/_inc_connexion.php");
 ?>
+
 <!DOCTYPE html>
 <html>
 	<head>
